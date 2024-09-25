@@ -1,0 +1,8 @@
+C:\Users\manny\anaconda3\envs\tensorflow\python.exe
+C:\Python39\python.exe
+C:\Users\manny\anaconda3\python.exe
+C:\Users\manny\AppData\Local\Microsoft\WindowsApps\python.exe
+
+
+old attempts: 
+cmd line start python - "C:\Program Files\Git\git-bash.exe" 'python C:\\Users\\manny\\OneDrive\\Desktop\\Projects\\Running\\Strava\\NRC_To_Strava.py'
