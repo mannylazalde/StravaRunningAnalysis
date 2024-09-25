@@ -1,0 +1,1 @@
+"C:\Python39\python.exe"  "C:\Users\manny\OneDrive\Desktop\Projects\Running\Strava\NRC_To_Strava.py"

@@ -1,0 +1,14 @@
+Tutorial: https://towardsdatascience.com/using-the-strava-api-and-pandas-to-explore-your-activity-data-d94901d9bfde
+
+Pre-Authorization Steps:
+
+1. Authorization Code:
+e36218f5887ddbf4c49870d70854d05355755baf
+
+
+https://www.strava.com/oauth/token?client_id=91559&client_secret=0b4ba39eb19596b212db839859d53038ee0ef8cb&code=e36218f5887ddbf4c49870d70854d05355755baf&grant_type=authorization_code
+
+
+Final Result:
+"refresh_token": "fa0ed46c3baec8feeac22cf4c3819a3758439b4a",
+"access_token": "f1e2be918423f469184a7caa89ad43215d97b10d",
